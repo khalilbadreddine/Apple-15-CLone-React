@@ -71,7 +71,7 @@ This project is a sleek recreation of the **Apple iPhone product page** using **
 ## 📝 License
    - This project is licensed under the MIT License - see the LICENSE.md file for details. Enjoy building! 🎉
 
--You can copy this directly for your README. Thank you for your patience, and let me know if you need any more adjustments!
+
 
 
 
